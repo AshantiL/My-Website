@@ -1,0 +1,29 @@
+@import url(bootstrap.css);
+
+
+body {
+
+     background-image:url('ashanti pic from 2011.jpg ');
+
+h1{
+   color:SteelBlue;
+}
+
+p{
+  color:Gray;
+
+h1#mvp {
+
+    color: DarkOrange;
+}
+
+p.girls {
+    color: Orchid
+}
+
+p.boys {
+   color: DarkSlateBlue;
+}
+
+  
+
